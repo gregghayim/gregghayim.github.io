@@ -15,8 +15,14 @@ header {
 }
 
 a {
-	color: inherit;
+	color: #35a67c;
 	text-decoration: none;
+}
+
+nav a {
+	color: blue;
+	font-style: italic;
+	marging-right: 10px;
 }
 
 h1 {
