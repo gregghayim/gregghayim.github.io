@@ -34,7 +34,7 @@ a {
 nav a {
 	color: blue;
 	font-style: italic;
-	marging-right: 10px;
+	margin-right: 10px;
 }
 
 h1 {
@@ -42,6 +42,8 @@ h1 {
 	background-color: red;
 	text-align: center;
 	font-family: Helvetica; serif;
+	font-weight: bold;
+	text-decoration: italic;
 }
 
 h2 {
