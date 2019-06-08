@@ -1,3 +1,7 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Oswald&display=swap');
+</style>
+
 * {
 	padding: 0;
 	margin: 0;
@@ -41,9 +45,9 @@ h1 {
 	color: #243836;
 	background-color: red;
 	text-align: center;
-	font-family: Helvetica; serif;
 	font-weight: bold;
 	text-decoration: italic;
+	font-family: 'Open Sans', sans-serif;
 }
 
 h2 {
