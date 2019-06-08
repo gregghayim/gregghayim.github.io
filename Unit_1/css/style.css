@@ -17,12 +17,11 @@ header {
 #second{
 	font-weight: bold;
 	text-decoration: italic;
+	font-size: 24px;
 }
 
 .family {
 	font-size: 14px;
-	text-decoration: bold;
-	text-decoration: italic
 }
 
 a {
