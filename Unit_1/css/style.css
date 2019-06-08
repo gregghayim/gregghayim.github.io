@@ -20,7 +20,9 @@ header {
 }
 
 .family {
-	font-size: 10px;
+	font-size: 14px;
+	text-decoration: bold;
+	text-decoration: italic
 }
 
 a {
