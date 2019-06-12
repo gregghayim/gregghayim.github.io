@@ -30,6 +30,10 @@ header {
 	color: red;
 }
 
+p {
+	display: inline;
+}
+
 a {
 	color: #35a67c;
 	text-decoration: none;
