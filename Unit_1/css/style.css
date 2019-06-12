@@ -22,7 +22,7 @@ header {
 	font-weight: bold;
 	text-decoration: italic;
 	font-size: 24px;
-	font-color: red;
+	color: red;
 }
 
 .family {
@@ -33,6 +33,7 @@ header {
 
 p {
 	display: inline;
+	color: black;
 }
 
 a {
