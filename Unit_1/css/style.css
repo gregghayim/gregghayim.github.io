@@ -50,6 +50,11 @@ div {
 	color: red;
 }
 
+img {
+	display: block;
+	margin: 0 auto;
+}
+
 a {
 	color: #35a67c;
 	text-decoration: none;
@@ -81,4 +86,9 @@ ul {
 	color: blue;
 	background-color: red;
 	font-family: Arial, serif;
+}
+
+footer {
+	text-align: center;
+	padding: 1em 0;
 }
