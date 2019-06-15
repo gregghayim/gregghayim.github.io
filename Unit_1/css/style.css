@@ -15,6 +15,7 @@ body {
 }
 header {
 	background-color: white;
+	color: black;
 	padding: 20px;
 }
 
@@ -59,6 +60,11 @@ img {
 a {
 	color: #35a67c;
 	text-decoration: none;
+}
+
+nav {
+	background-color: gray;
+	text-align: center;
 }
 
 nav a {
