@@ -70,8 +70,7 @@ nav {
 nav a {
 	color: white;
 	font-style: italic;
-	padding: 10px 0;
-	margin: 20px 0;
+	padding: 20px 0;
 }
 
 nav a:hover {
