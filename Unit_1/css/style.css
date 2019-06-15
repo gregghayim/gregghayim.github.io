@@ -73,6 +73,11 @@ nav a {
 	margin-right: 10px;
 }
 
+nav a:hover {
+	color:blue;
+}
+}
+
 h1 {
 	color: #243836;
 	background-color: red;
