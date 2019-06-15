@@ -71,11 +71,6 @@ nav a {
 	color: white;
 	font-style: italic;
 	padding: 10px 0;
-	display: block;
-	width: 180px;
-	float: left;
-
-
 }
 
 nav a:hover {
