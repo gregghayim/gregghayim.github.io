@@ -71,10 +71,13 @@ nav a {
 	color: white;
 	font-style: italic;
 	margin-right: 10px;
+	padding: 10px 0;
+
 }
 
 nav a:hover {
 	color:blue;
+	background-color: red;
 }
 }
 
@@ -110,4 +113,14 @@ footer {
 
 footer p {
 	float: right;
+}
+
+.clearfix:after {
+	display: block;
+	content: " ";
+	clear: both;
+
+	font-size: 0;
+	visibility: hidden;
+	height: 0;
 }
