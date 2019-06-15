@@ -62,9 +62,10 @@ a {
 }
 
 nav a {
-	color: blue;
+	color: white;
 	font-style: italic;
 	margin-right: 10px;
+	border: 10px black solid ;
 }
 
 h1 {
