@@ -87,6 +87,7 @@ h2 {
 	background-color: red;
 	font-family: 'Noto Serif', serif;
 	text-align: center;
+	float: left;
 }
 
 ul {
