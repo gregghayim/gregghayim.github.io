@@ -102,3 +102,7 @@ footer {
 	padding: 1em 0;
 	clear: both;
 }
+
+footer p {
+	float: right;
+}
