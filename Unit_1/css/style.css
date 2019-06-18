@@ -21,8 +21,8 @@ header {
 
 #wrapper {
 	width: 1080px;
-	margin: 0 auto;
 	background-color: gray;
+	margin-left: auto;
 }
 
 
