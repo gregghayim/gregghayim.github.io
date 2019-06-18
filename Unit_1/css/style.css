@@ -22,7 +22,7 @@ header {
 #wrapper {
 	width: 1080px;
 	background-color: gray;
-	margin-left: auto;
+	margin: 0 auto;
 }
 
 
