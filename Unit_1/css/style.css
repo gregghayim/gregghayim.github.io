@@ -61,10 +61,12 @@ img {
 a {
 	color: #35a67c;
 	text-decoration: none;
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 nav {
-	background-color: white;
+	background-color: gray;
 	text-align: center;
 }
 
@@ -113,12 +115,3 @@ footer p {
 	float: right;
 }
 
-.clearfix:after {
-	display: block;
-	content: " ";
-	clear: both;
-
-	font-size: 0;
-	visibility: hidden;
-	height: 0;
-}
