@@ -16,7 +16,8 @@ body {
 header {
 	background-color: white;
 	color: black;
-	padding: 40px;
+	padding: 20px;
+	border: solid 3px black;
 }
 
 #wrapper {
