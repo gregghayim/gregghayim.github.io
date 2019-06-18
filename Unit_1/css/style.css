@@ -87,6 +87,7 @@ h1 {
 	font-weight: bold;
 	text-decoration: italic;
 	font-family: 'Noto Serif', serif;
+	border: solid 3px black;
 }
 
 h2 {
