@@ -73,9 +73,9 @@ nav a {
 	padding: 20px 0;
 }
 
-nav a:hover {
-	color:blue;
-	background-color: red;
+nav a: hover {
+	color:gray;
+	background-color: blue;
 }
 }
 
