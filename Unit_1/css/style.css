@@ -63,12 +63,12 @@ a {
 }
 
 nav {
-	background-color: #33333;
+	background-color: #ffffff;
 	text-align: center;
 }
 
 nav a {
-	color: #ffffff;
+	color: #33333;
 	font-style: italic;
 	padding: 20px 0;
 }
