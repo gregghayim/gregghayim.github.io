@@ -80,7 +80,7 @@ nav a: hover {
 
 h1 {
 	color: #243836;
-	background-color: red;
+	background-color: white;
 	text-align: center;
 	font-weight: bold;
 	text-decoration: italic;
@@ -89,7 +89,7 @@ h1 {
 
 h2 {
 	color:  #243836;
-	background-color: red;
+	background-color: white;
 	font-family: 'Noto Serif', serif;
 	text-align: center;
 	float: left;
