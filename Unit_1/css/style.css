@@ -44,7 +44,7 @@ header {
 	width: 280px;
 	padding: 10px;
 	margin: 10px;
-	display: block;
+	display: inline;
 }
 
 #hemi {
