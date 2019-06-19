@@ -39,8 +39,7 @@ header {
 	font-weight: bold;
 	color: red;
 }
-
-#greggandlauren {
+.pictures {
 	float: left;
 	width: 280px;
 	padding: 10px;
