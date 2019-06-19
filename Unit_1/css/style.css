@@ -40,6 +40,33 @@ header {
 	color: red;
 }
 
+#greggandlauren {
+	float: left;
+	width: 280px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#hemi {
+	float: left;
+	width: 280px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#ryan {
+	float: left;
+	width: 280px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#hunter {
+	float: left;
+	width: 280px;
+	padding: 10px;
+	margin: 10px;
+}
 p {
 	display: inline;
 	color: black;
@@ -97,7 +124,6 @@ h2 {
 	text-align: center;
 	float: left;
 	border: solid 3px black;
-	float: left;
 
 }
 
