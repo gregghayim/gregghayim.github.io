@@ -47,6 +47,15 @@ header {
 	display: inline;
 }
 
+.clearfixafter {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height:0;
+	font-size: 0;
+}
+
 #hemi {
 	float: left;
 	width: 280px;
